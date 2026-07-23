@@ -1,4 +1,4 @@
-🗄️ SQL Practice & Interview Challenges
+## 🗄️ SQL Practice & Interview Challenges
 
 В данном репозитории собраны мои решения практических и логических задач по SQL, которые часто встречаются на технических собеседованиях на позицию QA Automation / Backend QA в ведущих IT-компаниях.
 
